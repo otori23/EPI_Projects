@@ -1,0 +1,56 @@
+1) Approaching the problem
+The solution may not occur immediatley so,
+- Clarify the question
+-- answer the question that was asked, not some other question.
+-- State a concrete instance of the problem. i.e. "find the first occurence of a number greater than k in a sorted array.", you can ask, if the input array is [2,20,30]and k is 3, then are you supposed to return 1, the index of 20?
+-- These questions can be formalized as a unit test
+
+- Work on small examples
+
+- Spell out the burte-force solution
+-- Obvious but have high time complexity
+-- Helps establish that you are solving the rigght problem
+-- But, if it takes too long to code, may hurt your score
+
+- Think out loud
+-- forces you to put your thoughts in a coherent manner
+-- interviewer can offer some guidance
+
+- Apply patterns - see chapter 4.
+-- Patterns: General reusable solutions to commonly occuring problems
+
+2) Presenting the solution
+
+- Libraries
+- Focus on the top-level algorithm
+- Manage the whiteboard
+- Test for corner cases
+- Syntax
+- Memory management
+
+
+3) Know your interviewer and the company
+- Startup 
+- Mature consumer-facing company
+- Enterprise-oriented company
+- Government contractor
+- Embedded system/chip design company
+
+4) General conversation
+Often interviewer will ask some general question (i.e about past projects), point is to:
+
+- Can the candidate clearly communicate a complex idea?
+- Is the candidate passionate about his/her work?
+- Is there a potential interest match with some project?
+
+5) Other Advice
+- Be honest
+- Keep a positive spirit
+- Don't apologize
+- Appearance
+- Be aware of your body language
+- Keep money and perks out of the interview
+- Beware of stress interviews
+- Learn from bad outcomes
+- Negotiating an offer (http://en.wikipedia.org/wiki/Negotiations)
+
