@@ -2,6 +2,7 @@
 The solution may not occur immediatley so,
 - Clarify the question
 -- answer the question that was asked, not some other question.
+-- Get specs and requirements
 -- State a concrete instance of the problem. i.e. "find the first occurence of a number greater than k in a sorted array.", you can ask, if the input array is [2,20,30]and k is 3, then are you supposed to return 1, the index of 20?
 -- These questions can be formalized as a unit test
 
@@ -20,27 +21,39 @@ The solution may not occur immediatley so,
 -- Patterns: General reusable solutions to commonly occuring problems
 
 2) Presenting the solution
+Important to present solution in a clear manner
+Take advantage of libraries and frameworks (i.e. Boost for C++)
 
-- Libraries
-- Focus on the top-level algorithm
+- Libraries: master these except data-structures
+- Focus on the top-level algorithm: use abstractions to implement algorithms
+(Hash, equals and compare functions are good candidates for deferred implementations)
 - Manage the whiteboard
-- Test for corner cases
-- Syntax
-- Memory management
+- Test for corner cases: at least address these even if you don't solve details
+- Syntax: know your syntax
+- Memory management: avoid all together; rely on run-time for deallocation
 
 
-3) Know your interviewer and the company
+3) Know your interviewer and the company 
 - Startup 
 - Mature consumer-facing company
 - Enterprise-oriented company
 - Government contractor
 - Embedded system/chip design company
 
+Research background of company and interviewers if possible. Use serach and social network tools for research.
+
+Communicate to interviwers that you are genuinely interested in job.
+
+Be ready to talk about what specifically appeals to you
+
 4) General conversation
 Often interviewer will ask some general question (i.e about past projects), point is to:
 
 - Can the candidate clearly communicate a complex idea?
+It is crucial to practice how you will present your best work
+
 - Is the candidate passionate about his/her work?
+
 - Is there a potential interest match with some project?
 
 5) Other Advice
@@ -52,5 +65,5 @@ Often interviewer will ask some general question (i.e about past projects), poin
 - Keep money and perks out of the interview
 - Beware of stress interviews
 - Learn from bad outcomes
-- Negotiating an offer (http://en.wikipedia.org/wiki/Negotiations)
+- Negotiating an offer (http://en.wikipedia.org/wiki/Negotiations): Do exclusively via email. Look for > 20% of offer at least.
 
