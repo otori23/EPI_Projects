@@ -4,4 +4,23 @@ Pg 12:
 - Hash, equal, compare functions are good candidates for defered implementation. How to write these exactly and what big differences between compare and equal.
 
 pg 17:
-- see wikipedia article on negotiation: http://en.wikipedia.org/wiki/Negotiations 
+- see wikipedia article on negotiation: http://en.wikipedia.org/wiki/Negotiations
+
+
+
+CHAPTER 4
+pg 22:
+- Great problem solvers have skills that cannot be rigorously formalized
+- Patterns: generally reusable solutions to commonly occuring problems
+- Data structure is a particular way of storing and organizing related data items so that they can be manipulated efficiently.
+
+pg 23:
+- Solutions often require a combination of data structures.
+- In computer science, an abstract data type (ADT) is a mathematical model for a certain class of data structures that have similar behavior; or for certain data types of one or more programming languages that have similar semantics
+- (ADT) A kind of data abstraction where a type's internal form is hidden behind a set of access functions.
+
+pg 27:
+BSTs are a workhorse of data sructures and can be used to solve almost every data structure problem reasonably efficiently
+
+pg 28:
+An algorithm is a step-by-step procedure for performing a calculation. An algorithm can be composed of other algorithms. 
