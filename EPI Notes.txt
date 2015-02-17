@@ -1,0 +1,7 @@
+Pg 12:
+- a comparison function should be transitive?
+- a hash function should use exactly does fields which are used in equality checking?
+- Hash, equal, compare functions are good candidates for defered implementation. How to write these exactly and what big differences between compare and equal.
+
+pg 17:
+- see wikipedia article on negotiation: http://en.wikipedia.org/wiki/Negotiations 
